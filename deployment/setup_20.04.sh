@@ -5,6 +5,18 @@
 # Script Version: 2.8.0
 # Run this script as root
 
+# Steps to install
+# wget https://raw.githubusercontent.com/shamar112/chatwoot/develop/deployment/install.sh
+# chmod +x install.sh
+# ./install.sh --install
+
+# Login as aobblechat user
+
+# sudo -i -u aobblechat
+# cd aobblechat
+# nano .env
+# sudo systemctl restart aobblechat.target
+
 set -eu -o errexit -o pipefail -o noclobber -o nounset
 
 # -allow a command to fail with !’s side effect on errexit
