@@ -4,11 +4,11 @@
     "HEADER_BTN_TXT": "Afegeix registres d'auditoria",
     "LOADING": "S'estan recollint registres d'auditoria",
     "SEARCH_404": "No hi ha cap resposta que coincideixi amb aquesta consulta",
-    "SIDEBAR_TXT": "<p><b>Registres d'auditoria</b> </p><p> Els registres d'auditoria són pistes d'esdeveniments i accions en un sistema de Chatwoot. </p>",
+    "SIDEBAR_TXT": "<p><b>Registres d'auditoria</b> </p><p> Els registres d'auditoria són pistes d'esdeveniments i accions en un sistema de Aobble Chat. </p>",
     "LIST": {
       "404": "No hi ha registres d'auditoria disponibles en aquest compte.",
       "TITLE": "Gestiona els registres d'auditoria",
-      "DESC": "Els registres d'auditoria són pistes d'esdeveniments i accions en un sistema Chatwoot.",
+      "DESC": "Els registres d'auditoria són pistes d'esdeveniments i accions en un sistema Aobble Chat.",
       "TABLE_HEADER": [
         "User",
         "Temps",

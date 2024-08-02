@@ -1,12 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
-    <title>woot-log</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="woot-log" fill-rule="nonzero">
-            <circle id="Oval" fill="#47A7F6" cx="256" cy="256" r="256"></circle>
-            <path d="M362.807947,368.807947 L244.122956,368.807947 C178.699407,368.807947 125.456954,315.561812 125.456954,250.12177 C125.456954,184.703089 178.699407,131.456954 244.124143,131.456954 C309.565494,131.456954 362.807947,184.703089 362.807947,250.12177 L362.807947,368.807947 Z" id="Fill-1" stroke="#FFFFFF" stroke-width="6" fill="#FFFFFF"></path>
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M512 0L512 0L512 512L0 512L0 0L512 0Z" id="path_1" />
+    <path d="M377 0L377 0L377 377L0 377L0 0L377 0Z" id="path_2" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_2" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="logo_thumbnail">
+    <path d="M512 0L512 0L512 512L0 512L0 0L512 0Z" id="logo_thumbnail" fill="none" stroke="none" />
+    <g id="Logo" clip-path="url(#clip_1)">
+      <g id="woot-log">
+        <path d="M0 256C0 114.615 114.615 0 256 0C397.385 0 512 114.615 512 256C512 397.385 397.385 512 256 512C114.615 512 0 397.385 0 256Z" id="Oval" fill="#EF4800" fill-rule="evenodd" stroke="none" />
+        <g id="Fill-1">
+          <path d="M377 0L377 0L377 377L0 377L0 0L377 0Z" id="Fill-1" fill="none" stroke="none" transform="translate(68 68)" />
+          <path d="M314.167 172.792C314.167 103.675 257.617 47.125 188.5 47.125C119.383 47.125 62.8333 103.675 62.8333 172.792C62.8333 241.908 119.383 298.458 188.5 298.458C193.213 298.458 199.496 298.458 204.208 296.887L204.208 333.017C237.196 311.025 298.458 263.9 311.025 197.925C312.596 190.071 314.167 182.217 314.167 172.792L314.167 172.792Z" id="Shape" fill="#FFFFFF" fill-opacity="0.3" stroke="none" clip-path="url(#clip_2)" transform="translate(68 68)" />
+          <path d="M188.5 362.863L188.5 314.167C109.958 314.167 47.125 251.333 47.125 172.792C47.125 94.25 109.958 31.4167 188.5 31.4167C267.042 31.4167 329.875 94.25 329.875 172.792C329.875 182.217 328.304 193.213 326.733 202.638C312.596 273.325 249.763 323.592 212.063 347.154L188.5 362.863L188.5 362.863ZM219.917 279.608L219.917 303.171C251.333 279.608 285.892 241.908 295.317 196.354C296.887 188.5 298.458 180.646 298.458 172.792C298.458 111.529 249.762 62.8333 188.5 62.8333C127.238 62.8333 78.5417 111.529 78.5417 172.792C78.5417 234.054 127.238 282.75 188.5 282.75C193.212 282.75 197.925 282.75 202.637 281.179L219.917 279.608L219.917 279.608Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" clip-path="url(#clip_2)" transform="translate(68 68)" />
         </g>
+      </g>
     </g>
+  </g>
 </svg>
