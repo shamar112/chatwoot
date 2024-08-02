@@ -3,68 +3,68 @@
   enabled: true
 - name: channel_email
   enabled: true
-  help_url: https://chwt.app/hc/email
+  help_url: https://email-chat.aobble.com
 - name: channel_facebook
   enabled: true
-  help_url: https://chwt.app/hc/fb
+  help_url: https://fb-chat.aobble.com
 - name: channel_twitter
   enabled: true
 - name: ip_lookup
-  enabled: false
+  enabled: true
 - name: disable_branding
   enabled: false
   premium: true
 - name: email_continuity_on_api_channel
-  enabled: false
+  enabled: true
 - name: help_center
   enabled: true
-  help_url: https://chwt.app/hc/help-center
+  help_url: https://help-center-chat.aobble.com
 - name: agent_bots
-  enabled: false
-  help_url: https://chwt.app/hc/agent-bots
+  enabled: true
+  help_url: https://agent-bots-chat.aobble.com
 - name: macros
   enabled: true
 - name: agent_management
   enabled: true
 - name: team_management
   enabled: true
-  help_url: https://chwt.app/hc/teams
+  help_url: https://teams-chat.aobble.com
 - name: inbox_management
   enabled: true
 - name: labels
   enabled: true
-  help_url: https://chwt.app/hc/labels
+  help_url: https://labels-chat.aobble.com
 - name: custom_attributes
   enabled: true
-  help_url: https://chwt.app/hc/custom-attributes
+  help_url: https://custom-attributes-chat.aobble.com
 - name: automations
   enabled: true
 - name: canned_responses
   enabled: true
-  help_url: https://chwt.app/hc/canned
+  help_url: https://canned-chat.aobble.com
 - name: integrations
   enabled: true
-  help_url: https://chwt.app/hc/integrations
+  help_url: https://integrations-chat.aobble.com
 - name: voice_recorder
   enabled: true
 - name: mobile_v2
-  enabled: false
+  enabled: true
 - name: channel_website
   enabled: true
 - name: campaigns
   enabled: true
-  help_url: https://chwt.app/hc/campaigns
+  help_url: https://campaigns-chat.aobble.com
 - name: reports
   enabled: true
-  help_url: https://chwt.app/hc/reports
+  help_url: https://reports-chat.aobble.com
 - name: crm
   enabled: true
 - name: auto_resolve_conversations
   enabled: true
 - name: custom_reply_email
-  enabled: false
+  enabled: true
 - name: custom_reply_domain
-  enabled: false
+  enabled: true
 - name: audit_logs
   enabled: false
   premium: true
@@ -72,20 +72,20 @@
   enabled: false
   premium: true
 - name: message_reply_to
-  enabled: false
-  help_url: https://chwt.app/hc/reply-to
+  enabled: true
+  help_url: https://reply-to-chat.aobble.com
 - name: insert_article_in_reply
-  enabled: false
+  enabled: true
 - name: inbox_view
-  enabled: false
+  enabled: true
 - name: sla
   enabled: false
   premium: true
-  help_url: https://chwt.app/hc/sla
+  help_url: https://sla-chat.aobble.com
 - name: help_center_embedding_search
   enabled: false
   premium: true
 - name: linear_integration
-  enabled: false
+  enabled: true
 - name: captain_integration
-  enabled: false
+  enabled: true
