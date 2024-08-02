@@ -10,12 +10,12 @@
 # chmod +x install.sh
 # ./install.sh --install
 
-# Login as aobblechat user
+# Login as chatwoot user
 
-# sudo -i -u aobblechat
-# cd aobblechat
+# sudo -i -u chatwoot
+# cd chatwoot
 # nano .env
-# sudo systemctl restart aobblechat.target
+# sudo systemctl restart chatwoot.target
 
 set -eu -o errexit -o pipefail -o noclobber -o nounset
 
