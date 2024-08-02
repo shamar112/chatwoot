@@ -26,7 +26,7 @@ const props = defineProps({
   value: {
     type: String,
     required: true,
-    validator: value => ['ding', 'bell'].includes(value),
+    validator: value => ['ding', 'bell', 'Level Up', 'Level Up 2', 'Dogru', 'LLV', 'Message Notification', 'Message Incoming 2', 'Notification 7'].includes(value),
   },
   label: {
     type: String,
@@ -42,6 +42,34 @@ const alertTones = computed(() => [
   {
     value: 'bell',
     label: 'Bell',
+  },
+    {
+    value: 'Level Up',
+    label: 'Level Up',
+  },
+  {
+    value: 'Level Up 2',
+    label: 'Level Up 2',
+  },
+  {
+    value: 'Dogru',
+    label: 'Dogru',
+  },
+  {
+    value: 'LLV',
+    label: 'LLV',
+  },
+  {
+    value: 'Message Notification',
+    label: 'Message Notification',
+  },
+  {
+    value: 'Message Incoming 2',
+    label: 'Message Incoming 2',
+  },
+  {
+    value: 'Notification 7',
+    label: 'Notification 7',
   },
 ]);
 

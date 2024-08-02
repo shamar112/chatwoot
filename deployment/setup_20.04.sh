@@ -7,8 +7,8 @@
 
 # Steps to install
 # wget https://raw.githubusercontent.com/shamar112/chatwoot/develop/deployment/setup_20.04.sh
-# chmod +x install.sh
-# ./install.sh --install
+# chmod +x setup_20.04.sh
+# ./setup_20.04.sh --install
 
 # Login as chatwoot user
 
