@@ -6,7 +6,7 @@
 # Run this script as root
 
 # Steps to install
-# wget https://raw.githubusercontent.com/shamar112/chatwoot/develop/deployment/install.sh
+# wget https://raw.githubusercontent.com/shamar112/chatwoot/develop/deployment/setup_20.04.sh
 # chmod +x install.sh
 # ./install.sh --install
 
